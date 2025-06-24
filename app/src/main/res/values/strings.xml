@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ly4HomeW</string>
+    <string name="lyrics_4_home"> Lyrics for Home</string>
+    <string name="text_songs">Songs</string>
+    <string name="text_favorites">Favorites</string>
+    <string name="text_favs">Favs</string>
+    <string name="text_settings">Settings</string>
+    <string name="wip">Work in progress</string>
+</resources>
